@@ -4,7 +4,7 @@
 
 ### Fixed
 
-* Forward selected files in Open With Blender and Open File(s) without requiring an explicit executable override.
+* Forward selected files in `Open With Blender` and `Open File(s)` without requiring an explicit executable override.
 
 ## [0.0.31] - 2026-04-05
 
